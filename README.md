@@ -1,5 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
-
+## name: pavithran S
+## reg no: 212223240113
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
